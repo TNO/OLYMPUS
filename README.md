@@ -1,6 +1,6 @@
 # OLYMPUS
 
-This repository contains simulation files for a single model realization (number 1) from the Olympus data set. The Olympus model represents a synthetic reservoir that was designed by TNO for the ISAPP Field Development Optimization Challenge. The complete data set consists of simulation files for 50 model realizations including documentation and can be requested via https://www.isapp2.com/optimization-challenge.html.
+This repository contains files for the simulation with OPM Flow of a single model realization (number 1) from the Olympus data set. The Olympus model represents a synthetic reservoir that was designed by TNO for the ISAPP Field Development Optimization Challenge. The complete data set consists of simulation files for 50 model realizations including documentation and can be requested via https://www.isapp2.com/optimization-challenge.html.
 
 The files provided in this repository are provided on a strict "as is" basis. TNO does not assume responsibility or liability for any damage that might result from use of these files by others. Please be aware that these files are available for non-commercial purposes only.
 
